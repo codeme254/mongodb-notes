@@ -1,3 +1,3 @@
 # Data Types
 
-Start typing here...
+data types are awesome
